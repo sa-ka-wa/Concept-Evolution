@@ -1,0 +1,92 @@
+{
+  "sketches": [
+    {
+      "id": 1,
+      "name": "Open Courtyard House",
+      "phase": "Final",
+      "images": [
+        "https://example.com/courtyard-concept.jpg",
+        "https://example.com/courtyard-abstract.jpg",
+        "https://example.com/courtyard-inspiration.jpg",
+        "https://example.com/courtyard-final.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Minimalist Cabin",
+      "phase": "Developed",
+      "images": [
+        "https://example.com/cabin-concept.jpg",
+        "https://example.com/cabin-abstract.jpg",
+        "https://example.com/cabin-inspiration.jpg",
+        "https://example.com/cabin-final.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Urban Rooftop Garden",
+      "phase": "Initial",
+      "images": [
+        "https://example.com/rooftop-concept.jpg",
+        "https://example.com/rooftop-abstract.jpg",
+        "https://example.com/rooftop-inspiration.jpg",
+        "https://example.com/rooftop-final.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Glass Pavilion",
+      "phase": "Final",
+      "images": [
+        "https://example.com/pavilion-concept.jpg",
+        "https://example.com/pavilion-abstract.jpg",
+        "https://example.com/pavilion-inspiration.jpg",
+        "https://example.com/pavilion-final.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vertical Forest Tower",
+      "phase": "Developed",
+      "images": [
+        "https://example.com/foresttower-concept.jpg",
+        "https://example.com/foresttower-abstract.jpg",
+        "https://example.com/foresttower-inspiration.jpg",
+        "https://example.com/foresttower-final.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Floating Library",
+      "phase": "Initial",
+      "images": [
+        "https://example.com/library-concept.jpg",
+        "https://example.com/library-abstract.jpg",
+        "https://example.com/library-inspiration.jpg",
+        "https://example.com/library-final.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Sunken Plaza",
+      "phase": "Final",
+      "images": [
+        "https://example.com/plaza-concept.jpg",
+        "https://example.com/plaza-abstract.jpg",
+        "https://example.com/plaza-inspiration.jpg",
+        "https://example.com/plaza-final.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Desert Retreat Villa",
+      "phase": "Developed",
+      "images": [
+        "https://example.com/desertvilla-concept.jpg",
+        "https://example.com/desertvilla-abstract.jpg",
+        "https://example.com/desertvilla-inspiration.jpg",
+        "https://example.com/desertvilla-final.jpg"
+      ]
+    }
+  ]
+}
